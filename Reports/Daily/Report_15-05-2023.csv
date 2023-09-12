@@ -1,0 +1,74 @@
+Id,Name,Event,Time,Total
+1,Oscar Escamilla,ENTRY,08:00:48,
+1,Oscar Escamilla,DEPARTURE,13:13:39,
+1,Oscar Escamilla,ENTRY,13:46:19,
+1,Oscar Escamilla,DEPARTURE,17:02:01,
+1,Oscar Escamilla,TOTALHOURS,,18:00:48
+2,Alessandro Nicchi,ENTRY,07:58:17,
+2,Alessandro Nicchi,DEPARTURE,17:18:24,
+2,Alessandro Nicchi,TOTALHOURS,,08:00:48
+3,Javier Hernandez,ENTRY,08:00:18,
+3,Javier Hernandez,DEPARTURE,13:10:47,
+3,Javier Hernandez,ENTRY,13:40:29,
+3,Javier Hernandez,DEPARTURE,17:00:58,
+3,Javier Hernandez,TOTALHOURS,,08:30:58
+4,Luis Alfonso Fernandez,ENTRY,08:00:23,
+4,Luis Alfonso Fernandez,DEPARTURE,13:25:05,
+4,Luis Alfonso Fernandez,ENTRY,13:55:14,
+4,Luis Alfonso Fernandez,DEPARTURE,17:02:14,
+4,Luis Alfonso Fernandez,TOTALHOURS,,08:31:42
+5,Arthur Lassance,ENTRY,08:11:37,
+5,Arthur Lassance,DEPARTURE,13:06:18,
+5,Arthur Lassance,ENTRY,13:35:43,
+5,Arthur Lassance,DEPARTURE,16:00:13,
+5,Arthur Lassance,TOTALHOURS,,07:19:11
+6,Adrian Castillo,ENTRY,08:28:38,
+6,Adrian Castillo,DEPARTURE,13:31:05,
+6,Adrian Castillo,ENTRY,14:00:29,
+6,Adrian Castillo,DEPARTURE,17:19:01,
+6,Adrian Castillo,TOTALHOURS,,08:20:59
+7,Joan Albert Mendoza,ENTRY,07:59:58,
+7,Joan Albert Mendoza,DEPARTURE,13:20:20,
+7,Joan Albert Mendoza,ENTRY,13:50:43,
+7,Joan Albert Mendoza,DEPARTURE,17:02:09,
+7,Joan Albert Mendoza,TOTALHOURS,,08:31:48
+8,Estefania Cabanillas,ENTRY,07:33:05,
+8,Estefania Cabanillas,DEPARTURE,13:20:09,
+8,Estefania Cabanillas,ENTRY,13:52:52,
+8,Estefania Cabanillas,DEPARTURE,16:48:08,
+8,Estefania Cabanillas,TOTALHOURS,,08:42:20
+9,Raul Ferreres,ENTRY,07:36:42,
+9,Raul Ferreres,DEPARTURE,13:31:37,
+9,Raul Ferreres,ENTRY,13:55:27,
+9,Raul Ferreres,DEPARTURE,16:50:52,
+9,Raul Ferreres,TOTALHOURS,,08:50:20
+10,Francisco de la Rosa,ENTRY,07:49:33,
+10,Francisco de la Rosa,DEPARTURE,13:12:20,
+10,Francisco de la Rosa,ENTRY,13:37:17,
+10,Francisco de la Rosa,DEPARTURE,17:18:48,
+10,Francisco de la Rosa,TOTALHOURS,,09:04:18
+11,Victor Manuel Rodriguez,ENTRY,08:23:34,
+11,Victor Manuel Rodriguez,DEPARTURE,13:10:27,
+11,Victor Manuel Rodriguez,ENTRY,13:43:02,
+11,Victor Manuel Rodriguez,DEPARTURE,17:19:18,
+11,Victor Manuel Rodriguez,TOTALHOURS,,00:00:00
+13,Pablo Manuel Sanchez,ENTRY,08:16:50,
+13,Pablo Manuel Sanchez,DEPARTURE,13:32:27,
+13,Pablo Manuel Sanchez,ENTRY,14:00:13,
+13,Pablo Manuel Sanchez,DEPARTURE,17:16:11,
+13,Pablo Manuel Sanchez,TOTALHOURS,,00:00:00
+14,Alfonso Casanova,ENTRY,07:32:59,
+14,Alfonso Casanova,DEPARTURE,13:06:03,
+14,Alfonso Casanova,ENTRY,13:27:28,
+14,Alfonso Casanova,DEPARTURE,16:48:02,
+14,Alfonso Casanova,TOTALHOURS,,00:00:00
+15,Juanma Salva,ENTRY,07:59:36,
+15,Juanma Salva,DEPARTURE,13:12:57,
+15,Juanma Salva,ENTRY,13:42:25,
+15,Juanma Salva,DEPARTURE,17:09:29,
+15,Juanma Salva,TOTALHOURS,,00:00:00
+17,Maria Aguilar,ENTRY,08:00:10,
+17,Maria Aguilar,DEPARTURE,13:17:05,
+17,Maria Aguilar,ENTRY,13:47:41,
+17,Maria Aguilar,DEPARTURE,17:01:22,
+17,Maria Aguilar,TOTALHOURS,,00:00:00
